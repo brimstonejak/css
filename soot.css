@@ -1,0 +1,32 @@
+/*soot theme*/
+
+.name {
+    color: #FDD73A !important;
+}
+
+body {
+    background: black url(https://i.imgur.com/FeQmhfL.png) right bottom no-repeat fixed;
+}
+
+div.post.reply {
+    background-color: #646464 !important;
+    color: black;
+    border-radius:0;
+}
+
+div#post-moderation-fields , div#style-select {
+    padding:4px;
+    background-color:rgba(0,0,0,28);
+}
+
+span.heading {
+    color: #FF565C !important;
+}
+
+.remove-btn {
+    color: rgba(255,255,255,128) !important;
+}
+
+hr {
+    border-color:transparent;
+}
