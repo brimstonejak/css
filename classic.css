@@ -1,0 +1,10 @@
+a[href^='mailto:sage']::after {
+  content: ' SAGE!';
+  text-decoration: none;
+  display: none;
+}
+
+.intro span.name {
+  color: #117743;
+  font-weight: bold;
+}
